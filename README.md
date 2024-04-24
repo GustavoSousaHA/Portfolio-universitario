@@ -1,2 +1,2 @@
 # Portfolio-universitario
- Meu portfolio com projetos da faculdade
+ Meu portfolio
